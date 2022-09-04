@@ -1,10 +1,8 @@
 ---
 title: Education
-description: 
-"M.Sc. in Computer Science and Engineering, UNIST, South Korea
-2023 ~
+description: "
+2016.03 - Present : B.S. Student in School of Computer Science and Engineering at Ulsan National Institute of Science and Technology (UNIST)
 
-B.Sc. in Computer Science and Engineering, UNIST, South Korea
-2018 – 2022"
+
+"
 ---
-

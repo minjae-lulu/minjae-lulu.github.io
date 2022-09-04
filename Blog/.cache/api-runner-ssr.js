@@ -9,11 +9,7 @@ var plugins = [{
     },{
       name: 'gatsby-plugin-manifest',
       plugin: require('/Users/minjaelee/Desktop/coding/minjae-lulu.github.io/Blog/node_modules/gatsby-plugin-manifest/gatsby-ssr.js'),
-      options: {"plugins":[],"name":"Gatsby Starter Blog","short_name":"GatsbyJS","start_url":"/","background_color":"#ffffff","display":"minimal-ui","icon":"src/images/gatsby-icon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"4a9773549091c227cd2eb82ccd9c5e3a"},
-    },{
-      name: 'default-site-plugin',
-      plugin: require('/Users/minjaelee/Desktop/coding/minjae-lulu.github.io/Blog/gatsby-ssr.js'),
-      options: {"plugins":[]},
+      options: {"plugins":[],"name":"Gatsby Starter Blog","short_name":"GatsbyJS","start_url":"/","background_color":"#ffffff","display":"minimal-ui","icon":"src/images/gatsby-icon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"25d46eb17290673ebb88d0ec8b9a75b3"},
     },{
       name: 'partytown',
       plugin: require('/Users/minjaelee/Desktop/coding/minjae-lulu.github.io/Blog/node_modules/gatsby/dist/internal-plugins/partytown/gatsby-ssr.js'),

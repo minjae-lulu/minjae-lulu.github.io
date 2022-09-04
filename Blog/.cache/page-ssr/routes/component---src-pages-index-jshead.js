@@ -868,12 +868,12 @@ const Bio = () => {
     className: "bio-avatar",
     layout: "fixed",
     formats: ["auto", "webp", "avif"],
-    src: "../images/profile-pic.png",
+    src: "../images/profile-pic.jpg",
     width: 50,
     height: 50,
     quality: 95,
     alt: "Profile picture",
-    __error: "No data found for image \"../images/profile-pic.png\"\n              undefinedCould not read image data file \"/Users/minjaelee/Desktop/coding/minjae-lulu.github.io/Blog/.cache/caches/gatsby-plugin-image/1243370623.json\". \nThis may mean that the images in \"/Users/minjaelee/Desktop/coding/minjae-lulu.github.io/Blog/src/components/bio.js\" were not processed.\nPlease ensure that your gatsby version is at least 2.24.78."
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/2376287092.json */ "./.cache/caches/gatsby-plugin-image/2376287092.json")
   }), (author === null || author === void 0 ? void 0 : author.name) && /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("p", null, "Written by ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("strong", null, author.name), " ", (author === null || author === void 0 ? void 0 : author.summary) || null, ` `));
 };
 
@@ -1048,6 +1048,11 @@ const BlogIndex = ({
       title: siteTitle
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_bio__WEBPACK_IMPORTED_MODULE_2__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", null, "No blog posts found. Add markdown posts to \"content/blog\" (or the directory you specified for the \"gatsby-source-filesystem\" plugin in gatsby-config.js)."));
   }
+  /* 
+   밑에 return이 페이지에 내보내는 정보들이다. 
+   <layout> 사이에 있는것을 주석처리 했다 말았다 자유롭게 해보라.
+  */
+
 
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_layout__WEBPACK_IMPORTED_MODULE_3__["default"], {
     location: location,
@@ -1092,13 +1097,23 @@ const pageQuery = "2239478271";
 
 /***/ }),
 
+/***/ "./.cache/caches/gatsby-plugin-image/2376287092.json":
+/*!***********************************************************!*\
+  !*** ./.cache/caches/gatsby-plugin-image/2376287092.json ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+module.exports = JSON.parse('{"layout":"fixed","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/1ff95527c052f585dcebdf338fca46b0/d24ee/profile-pic.jpg","srcSet":"/static/1ff95527c052f585dcebdf338fca46b0/d24ee/profile-pic.jpg 50w,\\n/static/1ff95527c052f585dcebdf338fca46b0/64618/profile-pic.jpg 100w","sizes":"50px"},"sources":[{"srcSet":"/static/1ff95527c052f585dcebdf338fca46b0/d4bf4/profile-pic.avif 50w,\\n/static/1ff95527c052f585dcebdf338fca46b0/ee81f/profile-pic.avif 100w","type":"image/avif","sizes":"50px"},{"srcSet":"/static/1ff95527c052f585dcebdf338fca46b0/3faea/profile-pic.webp 50w,\\n/static/1ff95527c052f585dcebdf338fca46b0/6a679/profile-pic.webp 100w","type":"image/webp","sizes":"50px"}]},"width":50,"height":50}');
+
+/***/ }),
+
 /***/ "./public/page-data/sq/d/2841359383.json":
 /*!***********************************************!*\
   !*** ./public/page-data/sq/d/2841359383.json ***!
   \***********************************************/
 /***/ ((module) => {
 
-module.exports = JSON.parse('{"data":{"site":{"siteMetadata":{"title":"Minjae Lee","description":"A starter blog demonstrating what Gatsby can do.","social":null}}}}');
+module.exports = JSON.parse('{"data":{"site":{"siteMetadata":{"title":"Minjae Lee","description":"A starter blog demonstrating what Gatsby can do.","social":{"twitter":"kylemathews"}}}}}');
 
 /***/ }),
 
@@ -1108,7 +1123,7 @@ module.exports = JSON.parse('{"data":{"site":{"siteMetadata":{"title":"Minjae Le
   \***********************************************/
 /***/ ((module) => {
 
-module.exports = JSON.parse('{"data":{"site":{"siteMetadata":{"author":{"name":"Minjae Lee","summary":"who lives and works in UNIST building useful things."},"social":null}}}}');
+module.exports = JSON.parse('{"data":{"site":{"siteMetadata":{"author":{"name":"Minjae Lee","summary":"who is undergraduate students in UNIST."},"social":{"twitter":"kylemathews"}}}}}');
 
 /***/ })
 

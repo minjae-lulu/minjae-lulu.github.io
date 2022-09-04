@@ -176,7 +176,7 @@ const pageQuery = "3159585216";
   \***********************************************/
 /***/ ((module) => {
 
-module.exports = JSON.parse('{"data":{"site":{"siteMetadata":{"title":"Minjae Lee","description":"A starter blog demonstrating what Gatsby can do.","social":null}}}}');
+module.exports = JSON.parse('{"data":{"site":{"siteMetadata":{"title":"Minjae Lee","description":"A starter blog demonstrating what Gatsby can do.","social":{"twitter":"kylemathews"}}}}}');
 
 /***/ })
 
