@@ -114,7 +114,7 @@ function n(){return n=Object.assign?Object.assign.bind():function(e){for(var t=1
  *
  * See: https://www.gatsbyjs.com/docs/use-static-query/
  */const Bio=()=>{var _data$site$siteMetada,_data$site$siteMetada2;const data=(0,gatsby_browser_entry.useStaticQuery)("3257411868");// Set these values by editing "siteMetadata" in gatsby-config.js
-const author=(_data$site$siteMetada=data.site.siteMetadata)===null||_data$site$siteMetada===void 0?void 0:_data$site$siteMetada.author;const social=(_data$site$siteMetada2=data.site.siteMetadata)===null||_data$site$siteMetada2===void 0?void 0:_data$site$siteMetada2.social;return/*#__PURE__*/index_js_.createElement("div",{className:"bio"},/*#__PURE__*/index_js_.createElement(V,{className:"bio-avatar",layout:"fixed",formats:["auto","webp","avif"],src:"../images/profile-pic.jpg",width:50,height:50,quality:95,alt:"Profile picture",__imageData:__webpack_require__(1944)}),(author===null||author===void 0?void 0:author.name)&&/*#__PURE__*/index_js_.createElement("p",null,"Written by ",/*#__PURE__*/index_js_.createElement("strong",null,author.name)," ",(author===null||author===void 0?void 0:author.summary)||null,` `));};/* harmony default export */ const bio = (Bio);
+const author=(_data$site$siteMetada=data.site.siteMetadata)===null||_data$site$siteMetada===void 0?void 0:_data$site$siteMetada.author;const social=(_data$site$siteMetada2=data.site.siteMetadata)===null||_data$site$siteMetada2===void 0?void 0:_data$site$siteMetada2.social;return/*#__PURE__*/index_js_.createElement("div",{className:"bio"},/*#__PURE__*/index_js_.createElement(V,{className:"bio-avatar",layout:"fixed",formats:["auto","webp","avif"],src:"../images/profile-pic.jpg",width:50,height:50,quality:95,alt:"Profile picture",__imageData:__webpack_require__(1944)}),(author===null||author===void 0?void 0:author.name)&&/*#__PURE__*/index_js_.createElement("p",null,/*#__PURE__*/index_js_.createElement("strong",null,author.name)," ",/*#__PURE__*/index_js_.createElement("br",null)," ",(author===null||author===void 0?void 0:author.summary)||null,` `));};/* harmony default export */ const bio = (Bio);
 
 /***/ }),
 
@@ -165,73 +165,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_bio__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9359);
 /* harmony import */ var _components_layout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8678);
 /* harmony import */ var _components_seo__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9357);
-
-
-
-
-
-
-const BlogIndex = ({
-  data,
-  location
-}) => {
-  var _data$site$siteMetada;
-
-  const siteTitle = ((_data$site$siteMetada = data.site.siteMetadata) === null || _data$site$siteMetada === void 0 ? void 0 : _data$site$siteMetada.title) || `Title`;
-  const posts = data.allMarkdownRemark.nodes;
-
-  if (posts.length === 0) {
-    return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_layout__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .Z, {
-      location: location,
-      title: siteTitle
-    }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_bio__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z, null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", null, "No blog posts found. Add markdown posts to \"content/blog\" (or the directory you specified for the \"gatsby-source-filesystem\" plugin in gatsby-config.js)."));
-  }
-  /* 
-   밑에 return이 페이지에 내보내는 정보들이다. 
-   <layout> 사이에 있는것을 주석처리 했다 말았다 자유롭게 해보라.
-  */
-
-
-  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_layout__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .Z, {
-    location: location,
-    title: siteTitle
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_bio__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z, null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("ol", {
-    style: {
-      listStyle: `none`
-    }
-  }, posts.map(post => {
-    const title = post.frontmatter.title || post.fields.slug;
-    return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
-      key: post.fields.slug
-    }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("article", {
-      className: "post-list-item",
-      itemScope: true,
-      itemType: "http://schema.org/Article"
-    }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("header", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h2", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(gatsby__WEBPACK_IMPORTED_MODULE_1__.Link, {
-      to: post.fields.slug,
-      itemProp: "url"
-    }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("span", {
-      itemProp: "headline"
-    }, title))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("small", null, post.frontmatter.date)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("section", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
-      dangerouslySetInnerHTML: {
-        __html: post.frontmatter.description || post.excerpt
-      },
-      itemProp: "description"
-    }))));
-  })));
-};
-
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (BlogIndex);
-/**
+const BlogIndex=({data,location})=>{var _data$site$siteMetada;const siteTitle=((_data$site$siteMetada=data.site.siteMetadata)===null||_data$site$siteMetada===void 0?void 0:_data$site$siteMetada.title)||`Title`;const posts=data.allMarkdownRemark.nodes;if(posts.length===0){return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_layout__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .Z,{location:location,title:siteTitle},/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_bio__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z,null),/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p",null,"No blog posts found. Add markdown posts to \"content/blog\" (or the directory you specified for the \"gatsby-source-filesystem\" plugin in gatsby-config.js)."));}/* 
+ 밑에 return이 페이지에 내보내는 정보들이다. 
+ <layout> 사이에 있는것을 주석처리 했다 말았다 자유롭게 해보라.
+*/return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_layout__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .Z,{location:location,title:siteTitle},/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_bio__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z,null),/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("ol",{style:{listStyle:`none`}},posts.map(post=>{const title=post.frontmatter.title||post.fields.slug;return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li",{key:post.fields.slug},/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("article",{className:"post-list-item",itemScope:true,itemType:"http://schema.org/Article"},/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("header",null,/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h2",null,/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(gatsby__WEBPACK_IMPORTED_MODULE_1__.Link,{to:post.fields.slug,itemProp:"url"},/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("span",{itemProp:"headline"},title))),/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("small",null,post.frontmatter.date)),/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("section",null,/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p",{dangerouslySetInnerHTML:{__html:post.frontmatter.description||post.excerpt},itemProp:"description"}))));})));};/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (BlogIndex);/**
  * Head export to define metadata for the page
  *
  * See: https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-head/
- */
-
-const Head = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_seo__WEBPACK_IMPORTED_MODULE_4__/* ["default"] */ .Z, {
-  title: "All posts"
-});
-const pageQuery = "2239478271";
+ */const Head=()=>/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_seo__WEBPACK_IMPORTED_MODULE_4__/* ["default"] */ .Z,{title:"All posts"});const pageQuery="2239478271";
 
 /***/ }),
 

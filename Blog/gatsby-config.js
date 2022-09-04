@@ -3,7 +3,7 @@ module.exports = {
     title: `Minjae Lee`,
     author: {
       name: `Minjae Lee`,
-      summary: `who is undergraduate students in UNIST.`,
+      summary: `Undergraduate students at UNIST.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://github.com/minjae-lulu/minjae-lulu.github.io.git`,
