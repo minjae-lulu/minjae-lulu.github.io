@@ -4,23 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a MSc candidate in [CSE](https://cse.unist.ac.kr/) at [UNIST](https://www.unist.ac.kr/) advised by Prof. [Seungryul Baek](https://sites.google.com/site/bsrvision00/) where I am a member of UNIST Vision and Learning ([UVL](http://vision.unist.ac.kr)) Lab. My current research interests include human pose estimation, action recognition, deep learning.
+I am a Combined MS-PhD in [CSE](https://cse.unist.ac.kr/) at [UNIST](https://www.unist.ac.kr/) advised by Prof. [Hyeonwoo yu](https://bogus2000.github.io/) where I am a member of UNIST Artificial Intelligence and Robotics ([Lair](https://lair.unist.ac.kr/)) Lab. My current research interests include neural radiance field, deep learning, robotics.
 
-From the very beginning of undergraduate studies (sophomore), I have been interested in participating in research activities in the areas of Computer Science. During 2020, I have worked as a research assistant in Software Engineering lab with focus on patch validation, and later I was a research assistant in Applied Cryptography lab with focus on privacy-preserving machine learning.
+<!-- From the very beginning of undergraduate studies (sophomore), I have been interested in participating in research activities in the areas of Computer Science. During 2020, I have worked as a research assistant in Software Engineering lab with focus on patch validation, and later I was a research assistant in Applied Cryptography lab with focus on privacy-preserving machine learning. -->
 
-I am also creator of two quiz games, namely Tapmaca and Paytaxt which are published in Google Play Store. The former has over 100 thousand and the latter has over 10 thousand downloads.
 
 ## Research Interests
 
-- **Computer Vision:** human pose estimation, action recognition, object detection, semantic segmentation
-- **Machine Learning:** deep learning, meta-learning, incremental learning
+- **Computer Vision:** Neural Radiance Field, Object detection, 3D Reconstruction
+- **Robotics:** Simultaneous Localization and Mapping, Robot Perception
 
 ## Education
-- M.Sc. in Computer Science and Engineering, **UNIST**, South Korea \\
-  2022 – Present
+- 2016.03 - 2023.02 : B.S. Student in School of Computer Science and Mechanical Engineering at Ulsan National Institute of Science and Technology (UNIST)
   
-- B.Sc. in Computer Science and Engineering, **UNIST**, South Korea \\
-  2018 – 2022
+- 2021.09 - Present : M.S. & Ph.D. student in School of Artificial Intelligence at Ulsan National Institute of Science and Technology (UNIST)
 
 ## Research Experience
 
