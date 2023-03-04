@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Combined MS-PhD in [CSE](https://cse.unist.ac.kr/) at [UNIST](https://www.unist.ac.kr/) advised by Prof. [Hyeonwoo yu](https://bogus2000.github.io/) where I am a member of UNIST Artificial Intelligence and Robotics ([Lair](https://lair.unist.ac.kr/)) Lab. My current research interests include neural radiance field, deep learning, robotics.
+Hi! I am a Combined MS-PhD in [AIGS](https://aigs.unist.ac.kr/eng/index.php) at UNIST advised by Prof. [Hyeonwoo yu](https://bogus2000.github.io/) where I am a member of UNIST Artificial Intelligence and Robotics ([Lair](https://lair.unist.ac.kr/)). As a researcher, I hope my research contribute to society positively and I believe that intelligent robot  is a step towards achieving that goal. My current research interest focuses on using deep learning techniques to enhance robots' spatial perception. By improving their ability to perceive their environment accurately, we can enable robots to make better decisions, perform more complex tasks, and ultimately help people in various ways.
 
 <br>
 <!-- From the very beginning of undergraduate studies (sophomore), I have been interested in participating in research activities in the areas of Computer Science. During 2020, I have worked as a research assistant in Software Engineering lab with focus on patch validation, and later I was a research assistant in Applied Cryptography lab with focus on privacy-preserving machine learning. -->
@@ -41,10 +41,7 @@ I am a Combined MS-PhD in [CSE](https://cse.unist.ac.kr/) at [UNIST](https://www
   Jihyeon Kim, Junuk Cha, Yeongjun Choo, **Minjae Lee**, Jitae Yoo, Yeonghun Oh, Hoseong Cho, Eunseo Kim, Chungseok Choi, Honggyu Lim, Donguk Min1, Eugene Shin, Seokun Kang and Seungryul Baek
   <br>
   Korean Artificial Intelligence Association (CKAIA), 2022
-  <!-- <br>
-  [[Paper]()] -->
-
-<br>
+  
 
 - **Literature review on Transformers in object detection**
   <br>
