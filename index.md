@@ -12,8 +12,8 @@ Hi! I am a Combined MS-PhD in [AIGS](https://aigs.unist.ac.kr/eng/index.php) at 
 
 ## Research Interests
 
-- **Computer Vision:** Neural Radiance Field, Object detection, 3D Reconstruction
-- **Robotics:** Simultaneous Localization and Mapping, Robot Perception
+- **Computer Vision:** Neural Radiance Field (NeRF), Object detection, 3D Reconstruction
+- **Robotics:** Simultaneous Localization and Mapping (SLAM), Adaptive Robot, Robot Perception
 
 <br>
 
@@ -21,16 +21,6 @@ Hi! I am a Combined MS-PhD in [AIGS](https://aigs.unist.ac.kr/eng/index.php) at 
 - 2016.03 - 2023.02 : B.S. Student major in School of **Computer Science** and minor in **Mechanical Engineering** at Ulsan National Institute of Science and Technology (UNIST)
   
 - 2021.09 - Present : M.S. & Ph.D. student in School of **Artificial Intelligence** at Ulsan National Institute of Science and Technology (UNIST)
-
-<br>
-
-## Work Experience
-
-- 2021.06 - 2022.07 : Research Intern at Applied Cryptography Lab (Unist)
-  
-- 2022.08 - 2023.02 : Research Intern at Artificial Intelligence and Robotics Lab (Unist)
-
-- 2023.03 - Present : Research Assistant at Artificial Intelligence and Robotics Lab (Unist) 
 
 <br>
 
@@ -51,6 +41,17 @@ Hi! I am a Combined MS-PhD in [AIGS](https://aigs.unist.ac.kr/eng/index.php) at 
   <!-- <br>
   [[Paper](https://doi.org/10.1038/s41467-022-32168-5)] -->
 
+<br/>
+
+## Work Experience
+
+- 2021.06 - 2022.07 : Research Intern at Applied Cryptography Lab (Unist)
+  
+- 2022.08 - 2023.02 : Research Intern at Artificial Intelligence and Robotics Lab (Unist)
+
+- 2023.03 - Present : Research Assistant at Artificial Intelligence and Robotics Lab (Unist) 
+
+<br>
 
 ## Presentation
 
