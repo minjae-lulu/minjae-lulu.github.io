@@ -3,10 +3,11 @@ position: Graduate Student
 affiliation: UNIST
 email: lmjbsj@unist.ac.kr
 keywords:
-google_scholar: 
-# https://scholar.google.com/citations?user=eDlBK6MAAAAJ&hl=en
+youtube: https://www.youtube.com/channel/UCIVgTrJlZr13kDSowURalfQ
+youtube: https://www.youtube.com/@genesisbeats8070
+# google_scholar: https://scholar.google.com/citations?user=eDlBK6MAAAAJ&hl=en
 github_link: https://github.com/minjae-lulu
-# linkedin: https://www.linkedin.com/in/elkhanzada
+instagram: https://www.instagram.com/codingboy_zenesis/
 avatar: ./assets/img/mypic.jpeg
 google_analytics: UA-111540567-4
 favicon: ./assets/img/mypic.jpeg
