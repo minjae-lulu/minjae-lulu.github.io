@@ -46,14 +46,14 @@ Hi! I am a Combined MS-PhD in [AIGS](https://aigs.unist.ac.kr/eng/index.php) at 
   <br>
   **Minjae Lee**, Kyeongsu Kang, Hyeonwoo Yu
   <br>
-  arXiv, 2023
+  (Under Review), 2023
 
 
 - **Necessity Feature Correspondence Estimation for Large-scale Global Place Recognition and Relocalization**
   <br>
   Kyeongsu Kang, **Minjae Lee**, Hyeonwoo Yu
   <br>
-  arXiv, 2023
+  (Under Review), 2023
 
 
 <br/>
