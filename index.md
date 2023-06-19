@@ -4,15 +4,14 @@ layout: homepage
 
 ## About Me
 
-Hi! I am a Combined MS-PhD in [AIGS](https://aigs.unist.ac.kr/eng/index.php) at UNIST advised by Prof. [Hyeonwoo yu](https://bogus2000.github.io/) where I am a member of UNIST Artificial Intelligence and Robotics ([Lair](https://lair.unist.ac.kr/)). As a researcher, I hope my research contribute to society positively and I believe that intelligent robot  is a step towards achieving that goal. My current research interest focuses on using deep learning techniques to enhance robots' spatial perception. By improving their ability to perceive their environment accurately, we can enable robots to make better decisions, perform more complex tasks, and ultimately help people in various ways.
+Hi! :smile: I am a Combined MS-PhD in [AIGS](https://aigs.unist.ac.kr/eng/index.php) at UNIST advised by Prof. [Hyeonwoo yu](https://bogus2000.github.io/) where I am a member of UNIST Artificial Intelligence and Robotics ([Lair](https://lair.unist.ac.kr/)). As a researcher, I hope my research contribute to society positively and I believe that intelligent robot  is a step towards achieving that goal. My current research interest focuses on using deep learning techniques to enhance robots' spatial perception. By improving their ability to perceive their environment accurately, we can enable robots to make better decisions, perform more complex tasks, and ultimately help people in various ways.
 
 <br>
-<!-- From the very beginning of undergraduate studies (sophomore), I have been interested in participating in research activities in the areas of Computer Science. During 2020, I have worked as a research assistant in Software Engineering lab with focus on patch validation, and later I was a research assistant in Applied Cryptography lab with focus on privacy-preserving machine learning. -->
 
 
 ## Research Interests
 
-- **Computer Vision:** Neural Radiance Field (NeRF), Object detection, 3D Reconstruction
+- **Computer Vision:** Neural Radiance Field (NeRF), Object detection, 3D Reconstruction, 3D Representation
 - **Robotics:** Simultaneous Localization and Mapping (SLAM), Adaptive Robot, Robot Perception
 
 <br>
@@ -69,5 +68,12 @@ Hi! I am a Combined MS-PhD in [AIGS](https://aigs.unist.ac.kr/eng/index.php) at 
 ## Presentation
 
 - LG DX Intensive Course, "Privacy-Preserving Machine Learning" (2021.10.22)
-- LG DX Intensive Course, "Pattern Recognition" (2022.07.14)
+- LG DX Intensive Course, "Computer Vision" (2022.07.14)
 - LG DX Intensive Course, "Privacy-Preserving Machine Learning" (2022.08.03)
+
+<br>
+
+## Teaching
+- EE586 Pattern Recognition and Machine Learning TA (2022.09 ~ 2022.12)
+- EEE353 Convex Optimization TA (2023.03 ~ 2023.06)
+- Kyungnam AI Novatus Academy TA (2023.04 ~ 2023.07)
