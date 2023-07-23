@@ -74,6 +74,6 @@ Hi! I am a Combined MS-PhD in [AIGS](https://aigs.unist.ac.kr/eng/index.php) at 
 <br>
 
 ## Teaching
-- EE586 Pattern Recognition and Machine Learning TA (2022.09 ~ 2022.12)
+- AI705 Nonparametric Bayesian TA (2022.09 ~ 2022.12)
 - EEE353 Convex Optimization TA (2023.03 ~ 2023.06)
 - Kyungnam AI Novatus Academy TA (2023.04 ~ 2023.07)
