@@ -11,7 +11,7 @@ Hi! I am a Combined MS-PhD in [AIGS](https://aigs.unist.ac.kr/eng/index.php) at 
 
 ## Research Interests
 
-- **Computer Vision:** Neural Radiance Field (NeRF), Object detection, 3D Reconstruction, 3D Representation
+- **Computer Vision:** Neural Radiance Field (NeRF), 3D Reconstruction, Object detection
 - **Robotics:** Simultaneous Localization and Mapping (SLAM), Adaptive Robot, Robot Perception
 
 <br>
@@ -37,15 +37,17 @@ Hi! I am a Combined MS-PhD in [AIGS](https://aigs.unist.ac.kr/eng/index.php) at 
   Elkhan Ismayilzada, **Minjae Lee** and Seungryul Baek
   <br>
   Korean Artificial Intelligence Association (CKAIA), 2022
-  <!-- <br>
-  [[Paper](https://doi.org/10.1038/s41467-022-32168-5)] -->
+
 
 
 - **Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**
   <br>
   **Minjae Lee**, Kyeongsu Kang, Hyeonwoo Yu
   <br>
-  (Under Review), 2023
+  (arxiv), 2023
+  <br>
+  [[Paper](https://arxiv.org/pdf/2303.06335.pdf)]
+  [[Code](https://github.com/minjae-lulu/Just-Flip)]
 
 
 - **Necessity Feature Correspondence Estimation for Large-scale Global Place Recognition and Relocalization**
@@ -53,15 +55,22 @@ Hi! I am a Combined MS-PhD in [AIGS](https://aigs.unist.ac.kr/eng/index.php) at 
   Kyeongsu Kang, **Minjae Lee**, Hyeonwoo Yu
   <br>
   (Under Review), 2023
+  <br>
+  [[Paper](https://arxiv.org/pdf/2303.06308.pdf)]
+  [[Code](https://github.com/Lab-of-AI-and-Robotics/NFC_relocalization)]
 
 
 <br/>
 
 ## Work Experience
 
-- 2021.06 - 2022.07 : Research Intern at Applied Cryptography Lab (UNIST)
-- 2022.08 - 2023.02 : Research Intern at Artificial Intelligence and Robotics Lab (UNIST)
-- 2023.03 - Present : Research Assistant at Artificial Intelligence and Robotics Lab (UNIST)
+- 2021.06 - 2022.07 : Research Intern at Applied Cryptography Lab (UNIST) <br/>
+Supervisor: [Miran Kim](https://k-miran.github.io/)<br/>
+
+
+- 2022.08 - Present : Research Intern at Artificial Intelligence and Robotics Lab (UNIST) <br/>
+Supervisor : [Hyeonwoo Yu](https://bogus2000.github.io/)<br/>
+
 
 <br>
 
