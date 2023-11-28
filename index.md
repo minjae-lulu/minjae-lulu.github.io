@@ -14,7 +14,7 @@ Hi! I am a Combined MS-PhD in [AIGS](https://aigs.unist.ac.kr/eng/index.php) at 
 
 ## Research Interests
 
-- **Deep Learning:** Computer Vision, 3D vision, Pattern recognition
+- **Deep Learning:** Computer Vision, Pattern recognition, 3D vision,
 - **Robotics:** Simultaneous Localization and Mapping (SLAM), Robot Perception, Adaptive Robot
 
 <br>
@@ -83,8 +83,7 @@ Supervisor : [Hyeonwoo Yu](https://bogus2000.github.io/)<br/>
 - LG DX Intensive Course, "Computer Vision" (2022.07.14)
 - LG DX Intensive Course, "Privacy-Preserving Machine Learning" (2022.08.03)
 - Korean Artificial Intelligence Association (CKAIA) Poster Session "Literature review on Transformers in object detection" (2022.11.18) 
-- Poster Session UNIST Artificial Intelligence Challengers Program "Flipped Observation Generation and Optimization for Neural Radiance Fields
-to Cover Unobserved View" (2023.11.14)
+- UNIST Artificial Intelligence Challengers Program (AICP) Poster Session "Just Flip" (2023.11.14)
 
 
 <br>
