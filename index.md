@@ -4,10 +4,10 @@ layout: homepage
 
 ## About Me
 
-Hi! I am a Combined MS-PhD in [AIGS](https://aigs.unist.ac.kr/eng/index.php) at UNIST advised by Prof. [Hyeonwoo yu](https://bogus2000.github.io/) where I am a member of UNIST Artificial Intelligence and Robotics ([Lair](https://lair.unist.ac.kr/)). As a researcher, I hope my research contribute to society positively and I believe that artificial intelligence is a step towards achieving that goal. My current research interest focuses on using deep learning techniques to understand and generate 3D space. Through these researches, we can solve many spatial limitations, and ultimately people in the world can live a better life in various ways.
+<!-- Hi! I am a Combined MS-PhD in [AIGS](https://aigs.unist.ac.kr/eng/index.php) at UNIST advised by Prof. [Hyeonwoo yu](https://bogus2000.github.io/) where I am a member of UNIST Artificial Intelligence and Robotics ([Lair](https://lair.unist.ac.kr/)). As a researcher, I hope my research contribute to society positively and I believe that artificial intelligence is a step towards achieving that goal. My current research interest focuses on using deep learning techniques to understand and generate 3D space. Through these researches, we can solve many spatial limitations, and ultimately people in the world can live a better life in various ways. -->
 
 
-<!-- Hi! I am a Combined MS-PhD in [AIGS](https://aigs.unist.ac.kr/eng/index.php) at UNIST advised by Prof. [Hyeonwoo yu](https://bogus2000.github.io/) where I am a member of UNIST Artificial Intelligence and Robotics ([Lair](https://lair.unist.ac.kr/)). As a researcher, I hope my research contribute to society positively and I believe that intelligent robot  is a step towards achieving that goal. My current research interest focuses on using deep learning techniques to enhance robots' spatial perception. By improving their ability to perceive their environment accurately, we can enable robots to make better decisions, perform more complex tasks, and ultimately help people in various ways. -->
+Hi! I am a Combined MS-PhD in [AIGS](https://aigs.unist.ac.kr/eng/index.php) at UNIST advised by Prof. [Hyeonwoo yu](https://bogus2000.github.io/) where I am a member of UNIST Artificial Intelligence and Robotics ([Lair](https://lair.unist.ac.kr/)). As a researcher, I hope my research contribute to society positively and I believe that intelligent robot  is a step towards achieving that goal. My current research interest focuses on using deep learning techniques to enhance robots' spatial perception. By improving their ability to perceive their environment accurately, we can enable robots to make better decisions, perform more complex tasks, and ultimately help people in various ways.
 
 <br>
 
@@ -71,9 +71,17 @@ Hi! I am a Combined MS-PhD in [AIGS](https://aigs.unist.ac.kr/eng/index.php) at 
 Supervisor: [Miran Kim](https://k-miran.github.io/)<br/>
 
 
-- 2022.08 - Present : Research Intern at Artificial Intelligence and Robotics Lab (UNIST) <br/>
+- 2022.08 - 2024.02 : Research Intern at Artificial Intelligence and Robotics Lab (UNIST) <br/>
 Supervisor : [Hyeonwoo Yu](https://bogus2000.github.io/)<br/>
 
+- 2024.03 - Present : Research Intern at Artificial Intelligence and Robotics Lab (SKKU) <br/>
+Supervisor : [Hyeonwoo Yu](https://bogus2000.github.io/)<br/>
+
+
+<br>
+
+## Conference Review
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023
 
 <br>
 
