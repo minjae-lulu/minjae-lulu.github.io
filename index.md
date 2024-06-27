@@ -66,6 +66,8 @@ Hi! I am a Combined MS-PhD in [Intelligent Robots](https://robot.skku.edu/robot_
   [[Paper](https://arxiv.org/pdf/2404.06727.pdf)]
   [[Code](https://github.com/Lab-of-AI-and-Robotics/Bayesian_NeRF)]
   [[Video](https://www.youtube.com/watch?v=wp5jW4S_jqo)]
+
+  
 <!-- 
 - **Free-form masked facial image inpainting via exploiting 2D and 3D information**
   <br>
