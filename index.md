@@ -32,7 +32,41 @@ Hi! I am a Combined MS-PhD in [Intelligent Robots](https://robot.skku.edu/robot_
 <br>
 
 ## Publications
+- **Free-form masked facial image inpainting via exploiting 2D and 3D information** (CKAIA), 2022
+  <br>
+  Jihyeon Kim, Junuk Cha, Yeongjun Choo, **Minjae Lee**, Jitae Yoo, Yeonghun Oh, Hoseong Cho, Eunseo Kim, Chungseok Choi, Honggyu Lim, Donguk Min1, Eugene Shin, Seokun Kang and Seungryul Baek
+  
 
+- **Literature review on Transformers in object detection** (CKAIA), 2022
+  <br>
+  Elkhan Ismayilzada, **Minjae Lee** and Seungryul Baek
+
+
+
+- **Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View** (2023)
+  <br>
+  **Minjae Lee**, Kyeongsu Kang, Hyeonwoo Yu
+  <br>
+  [[Paper](https://arxiv.org/pdf/2303.06335.pdf)]
+  [[Code](https://github.com/minjae-lulu/Just-Flip)]
+
+
+- **Necessity Feature Correspondence Estimation for Large-scale Global Place Recognition and Relocalization** (2023)
+  <br>
+  Kyeongsu Kang, **Minjae Lee**, Hyeonwoo Yu
+  <br>
+  [[Paper](https://arxiv.org/pdf/2303.06308.pdf)]
+  [[Code](https://github.com/Lab-of-AI-and-Robotics/NFC_relocalization)]
+
+
+- **Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields** (2024)
+  <br>
+  **Sibaek Lee**, Kyeongsu Kang, Hyeonwoo Yu
+  <br>
+  [[Paper](https://arxiv.org/pdf/2404.06727.pdf)]
+  [[Code](https://github.com/Lab-of-AI-and-Robotics/Bayesian_NeRF)]
+  [[Video](https://www.youtube.com/watch?v=wp5jW4S_jqo)]
+<!-- 
 - **Free-form masked facial image inpainting via exploiting 2D and 3D information**
   <br>
   Jihyeon Kim, Junuk Cha, Yeongjun Choo, **Minjae Lee**, Jitae Yoo, Yeonghun Oh, Hoseong Cho, Eunseo Kim, Chungseok Choi, Honggyu Lim, Donguk Min1, Eugene Shin, Seokun Kang and Seungryul Baek
@@ -76,7 +110,7 @@ Hi! I am a Combined MS-PhD in [Intelligent Robots](https://robot.skku.edu/robot_
   <br>
   [[Paper](https://arxiv.org/pdf/2404.06727.pdf)]
   [[Code](https://github.com/Lab-of-AI-and-Robotics/Bayesian_NeRF)]
-  [[Video](https://www.youtube.com/watch?v=wp5jW4S_jqo)]
+  [[Video](https://www.youtube.com/watch?v=wp5jW4S_jqo)] -->
 
 
 
