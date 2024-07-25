@@ -65,6 +65,7 @@ Hi! I am a Combined MS-PhD in [Intelligent Robots](https://robot.skku.edu/robot_
   <br>
   [[Paper](https://arxiv.org/pdf/2303.06335.pdf)]
   [[Code](https://github.com/minjae-lulu/Just-Flip)]
+  [[Video](https://www.youtube.com/watch?v=ClNg3GSr0jw)]
 
 - **Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**
   <br>
