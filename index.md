@@ -23,38 +23,25 @@ Hi! I am a Combined MS-PhD in [Intelligent Robots](https://robot.skku.edu/robot_
 <br>
 
 ## Education
-- 2016.03 - 2023.02 : B.S. Student major in School of **Computer Science** and minor in **Mechanical Engineering** at Ulsan National Institute of Science and Technology (UNIST)
+- 2024.03 - Present : M.S. & Ph.D. student in School of **Intelligent Robots** at Sungkyunkwan University (SKKU)
   
 - 2023.03 - 2024.02 : M.S. & Ph.D. student in School of **Artificial Intelligence** at Ulsan National Institute of Science and Technology (UNIST)
 
-- 2024.03 - Present : M.S. & Ph.D. student in School of **Intelligent Robots** at Sungkyunkwan University (SKKU)
+- 2016.03 - 2023.02 : B.S. Student major in School of **Computer Science** and minor in **Mechanical Engineering** at Ulsan National Institute of Science and Technology (UNIST)
 
 <br>
 
 
 ## Publications
-- **Free-form masked facial image inpainting via exploiting 2D and 3D information**
+- **Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**
   <br>
-  Jihyeon Kim, Junuk Cha, Yeongjun Choo, **Minjae Lee**, Jitae Yoo, Yeonghun Oh, Hoseong Cho, Eunseo Kim, Chungseok Choi, Honggyu Lim, Donguk Min1, Eugene Shin, Seokun Kang and Seungryul Baek
+  **Sibaek Lee**, Kyeongsu Kang, Hyeonwoo Yu
   <br>
-  Korean Artificial Intelligence Association (CKAIA), 2022
-  
-
-- **Literature review on Transformers in object detection**
+  (arxiv), 2024
   <br>
-  Elkhan Ismayilzada, **Minjae Lee** and Seungryul Baek
-  <br>
-  Korean Artificial Intelligence Association (CKAIA), 2022
-
-
-- **Necessity Feature Correspondence Estimation for Large-scale Global Place Recognition and Relocalization**
-  <br>
-  Kyeongsu Kang, **Minjae Lee**, Hyeonwoo Yu
-  <br>
-  (arxiv), 2023
-  <br>
-  [[Paper](https://arxiv.org/pdf/2303.06308.pdf)]
-  [[Code](https://github.com/Lab-of-AI-and-Robotics/NFC_relocalization)]
+  [[Paper](https://arxiv.org/pdf/2404.06727.pdf)]
+  [[Code](https://github.com/Lab-of-AI-and-Robotics/Bayesian_NeRF)]
+  [[Video](https://www.youtube.com/watch?v=wp5jW4S_jqo)]
 
 
 - **Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**
@@ -67,54 +54,69 @@ Hi! I am a Combined MS-PhD in [Intelligent Robots](https://robot.skku.edu/robot_
   [[Code](https://github.com/minjae-lulu/Just-Flip)]
   [[Video](https://www.youtube.com/watch?v=ClNg3GSr0jw)]
 
-- **Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**
+
+- **Necessity Feature Correspondence Estimation for Large-scale Global Place Recognition and Relocalization**
   <br>
-  **Sibaek Lee**, Kyeongsu Kang, Hyeonwoo Yu
+  Kyeongsu Kang, **Minjae Lee**, Hyeonwoo Yu
   <br>
-  (arxiv), 2024
+  (arxiv), 2023
   <br>
-  [[Paper](https://arxiv.org/pdf/2404.06727.pdf)]
-  [[Code](https://github.com/Lab-of-AI-and-Robotics/Bayesian_NeRF)]
-  [[Video](https://www.youtube.com/watch?v=wp5jW4S_jqo)]
+  [[Paper](https://arxiv.org/pdf/2303.06308.pdf)]
+  [[Code](https://github.com/Lab-of-AI-and-Robotics/NFC_relocalization)]
+
+
+- **Literature review on Transformers in object detection**
+  <br>
+  Elkhan Ismayilzada, **Minjae Lee** and Seungryul Baek
+  <br>
+  Korean Artificial Intelligence Association (CKAIA), 2022
+
+
+- **Free-form masked facial image inpainting via exploiting 2D and 3D information**
+  <br>
+  Jihyeon Kim, Junuk Cha, Yeongjun Choo, **Minjae Lee**, Jitae Yoo, Yeonghun Oh, Hoseong Cho, Eunseo Kim, Chungseok Choi, Honggyu Lim, Donguk Min1, Eugene Shin, Seokun Kang and Seungryul Baek
+  <br>
+  Korean Artificial Intelligence Association (CKAIA), 2022
+  
 
 
 <br/>
 
 ## Work Experience
 
-- 2021.06 - 2022.07 : Research Intern at Applied Cryptography Lab (UNIST) <br/>
-Supervisor: [Miran Kim](https://k-miran.github.io/)<br/>
+- 2024.03 - Present : Research Intern at Artificial Intelligence and Robotics Lab (SKKU) <br/>
+Supervisor : [Hyeonwoo Yu](https://bogus2000.github.io/)<br/>
 
 
 - 2022.08 - 2024.02 : Research Intern at Artificial Intelligence and Robotics Lab (UNIST) <br/>
 Supervisor : [Hyeonwoo Yu](https://bogus2000.github.io/)<br/>
 
-- 2024.03 - Present : Research Intern at Artificial Intelligence and Robotics Lab (SKKU) <br/>
-Supervisor : [Hyeonwoo Yu](https://bogus2000.github.io/)<br/>
 
+- 2021.06 - 2022.07 : Research Intern at Applied Cryptography Lab (UNIST) <br/>
+Supervisor: [Miran Kim](https://k-miran.github.io/)<br/>
 
 <br>
 
 ## Conference Review
-- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023
 
 <br>
 
 ## Presentation
-
-- LG DX Intensive Course, "Privacy-Preserving Machine Learning" (2021.10.22)
-- LG DX Intensive Course, "Computer Vision" (2022.07.14)
-- LG DX Intensive Course, "Privacy-Preserving Machine Learning" (2022.08.03)
 - Korean Artificial Intelligence Association (CKAIA) Poster Session "Literature review on Transformers in object detection" (2022.11.18) 
 - UNIST Artificial Intelligence Challengers Program (AICP) Poster Session "Just Flip" (2023.11.14)
+- LG DX Intensive Course, "Privacy-Preserving Machine Learning" (2022.08.03)
+- LG DX Intensive Course, "Computer Vision" (2022.07.14)
+- LG DX Intensive Course, "Privacy-Preserving Machine Learning" (2021.10.22)
+
 
 <br>
 
 ## Teaching
-- AI705 Nonparametric Bayesian TA (2022.09 ~ 2022.12)
-- EEE353 Convex Optimization TA (2023.03 ~ 2023.06)
 - Kyungnam AI Novatus Academy TA (2023.04 ~ 2023.07)
+- EEE353 Convex Optimization TA (2023.03 ~ 2023.06)
+- AI705 Nonparametric Bayesian TA (2022.09 ~ 2022.12)
 
 <br>
 
