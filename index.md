@@ -14,7 +14,7 @@ Hi! I am a Combined MS-PhD student in [Intelligent Robots](https://robot.skku.ed
 
 ## Research Interests
 
-- **Deep Learning:** Pattern recognition, Bayesian learning, Generative model, Computer Vision
+- **Deep Learning:** 3D Vision, Vision Language Model, Bayesian learning, Generative model
 - **Robotics:** Simultaneous Localization and Mapping (SLAM), Robot Perception, Adaptive Robot
 
 <br>
@@ -80,7 +80,6 @@ Hi! I am a Combined MS-PhD student in [Intelligent Robots](https://robot.skku.ed
 <br/>
 
 ## Work Experience
-
 - 2024.08 (Expected) -  : 3D Vision & Deep Learning Research Intern at [Naver Labs](https://www.naverlabs.com/)
 
 - 2024.03 - Present : Research Intern at Artificial Intelligence and Robotics Lab (SKKU) <br/>

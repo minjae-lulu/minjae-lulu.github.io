@@ -1,7 +1,7 @@
 title: Sibaek Lee
 position: Graduate Student
 affiliation: SKKU
-email: lmjlss@skku.edu
+email: lmjlss@g.skku.edu
 keywords:
 
 google_scholar: https://scholar.google.com/citations?hl=ko&user=BG206AgAAAAJ
@@ -16,3 +16,5 @@ favicon: ./assets/img/mypic.jpeg
 favicon_dark: ./assets/img/mypic.jpeg
 description: Sibaek Lee's homepage
 remote_theme: yaoyao-liu/minimal-light
+
+cv_link: ./assets/cv_pdf/cv.pdf
