@@ -7,10 +7,7 @@ layout: homepage
 <!-- Hi! I am a Combined MS-PhD in [AIGS](https://aigs.unist.ac.kr/eng/index.php) at UNIST advised by Prof. [Hyeonwoo yu](https://bogus2000.github.io/) where I am a member of UNIST Artificial Intelligence and Robotics ([Lair](https://lair.unist.ac.kr/)). As a researcher, I hope my research contribute to society positively and I believe that artificial intelligence is a step towards achieving that goal. My current research interest focuses on using deep learning techniques to understand and generate 3D space. Through these researches, we can solve many spatial limitations, and ultimately people in the world can live a better life in various ways. -->
 
 
-Hi! I am a Combined MS-PhD in [Intelligent Robots](https://robot.skku.edu/robot_en/index.do) at SKKU advised by Prof. [Hyeonwoo yu](https://bogus2000.github.io/) where I am a member of SKKU Artificial Intelligence and Robotics ([Lair](https://sites.google.com/view/hyeonwooyu/)). As a researcher, I hope my research contribute to society positively and I believe that artificial intelligence is a step towards achieving that goal. My current research interest focuses on using deep learning techniques to enhance robots' spatial perception. By improving their ability to perceive their environment accurately, we can enable robots to make better decisions, perform more complex tasks, and ultimately help people in various ways.
-
-
-<!-- Hi! I am a Combined MS-PhD in [Intelligent Robots](https://robot.skku.edu/robot_en/index.do) at SKKU advised by Prof. [Hyeonwoo yu](https://bogus2000.github.io/) where I am a member of SKKU Artificial Intelligence and Robotics ([Lair](https://lair.skku.edu/)). As a researcher, I hope my research contribute to society positively and I believe that artificial intelligence is a step towards achieving that goal. My current research interest focuses on using deep learning techniques to understand and generate 3D space. Through these researches, we can solve many spatial limitations, and ultimately people in the world can live a better life in various ways. -->
+Hi! I am a Combined MS-PhD student in [Intelligent Robots](https://robot.skku.edu/robot_en/index.do) at SKKU advised by Prof. [Hyeonwoo yu](https://bogus2000.github.io/) where I am a member of SKKU Artificial Intelligence and Robotics ([Lair](https://sites.google.com/view/hyeonwooyu/)). As a researcher, I hope my research contribute to society positively and I believe that artificial intelligence is a step towards achieving that goal. My current research interest focuses on using deep learning techniques to enhance robots' spatial perception. By improving their ability to perceive their environment accurately, we can enable robots to make better decisions, perform more complex tasks, and ultimately help people in various ways.
 
 <br>
 
@@ -23,11 +20,11 @@ Hi! I am a Combined MS-PhD in [Intelligent Robots](https://robot.skku.edu/robot_
 <br>
 
 ## Education
-- 2024.03 - Present : M.S. & Ph.D. student in School of **Intelligent Robots** at Sungkyunkwan University (SKKU)
+- 2024.03 - Present : M.S. & Ph.D. in School of **Intelligent Robots** at Sungkyunkwan University (SKKU)
   
-- 2023.03 - 2024.02 : M.S. & Ph.D. student in School of **Artificial Intelligence** at Ulsan National Institute of Science and Technology (UNIST)
+- 2023.03 - 2024.02 : M.S. & Ph.D. in School of **Artificial Intelligence** at Ulsan National Institute of Science and Technology (UNIST)
 
-- 2016.03 - 2023.02 : B.S. Student major in School of **Computer Science** and minor in **Mechanical Engineering** at Ulsan National Institute of Science and Technology (UNIST)
+- 2016.03 - 2023.02 : B.S. major in School of **Computer Science** and minor in **Mechanical Engineering** at Ulsan National Institute of Science and Technology (UNIST)
 
 <br>
 
@@ -83,6 +80,8 @@ Hi! I am a Combined MS-PhD in [Intelligent Robots](https://robot.skku.edu/robot_
 <br/>
 
 ## Work Experience
+
+- 2024.08 (Expected) -  : 3D Vision & Deep Learning Research Intern at [Naver Labs](https://www.naverlabs.com/)
 
 - 2024.03 - Present : Research Intern at Artificial Intelligence and Robotics Lab (SKKU) <br/>
 Supervisor : [Hyeonwoo Yu](https://bogus2000.github.io/)<br/>
