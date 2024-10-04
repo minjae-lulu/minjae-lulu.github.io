@@ -14,7 +14,7 @@ Hi! I am a Combined MS-PhD student in [Intelligent Robotics](https://robot.skku.
 ## Research Interests
 
 - **Deep Learning:** 3D Vision, Vision Language Model, Bayesian learning, Generative model
-- **Robotics:** Simultaneous Localization and Mapping (SLAM), Robot Perception, Adaptive Robot
+- **Robotics:** Vision Language Navigation, Simultaneous Localization and Mapping (SLAM), Robot Perception
 
 <br>
 
@@ -42,7 +42,7 @@ Hi! I am a Combined MS-PhD student in [Intelligent Robotics](https://robot.skku.
 
 - **Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**
   <br>
-  **Minjae Lee**, Kyeongsu Kang, Hyeonwoo Yu
+  **Sibaek Lee**, Kyeongsu Kang, Hyeonwoo Yu
   <br>
   IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024 (**Oral pitch & interactive presentation**)
   <br>
