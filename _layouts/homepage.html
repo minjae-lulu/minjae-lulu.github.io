@@ -64,7 +64,10 @@
       </section>
       <footer>
         <div class="social-icons">
-          
+          {% if site.linkedin %}
+          <a href="{{ site.linkedin }}" target="_blank">
+            <i class="fab fa-linkedin-in"></i>
+          </a>
           {% if site.github_link %}            
           <a href="{{ site.github_link }}" target="_blank">
             <i class="fab fa-github"></i>
