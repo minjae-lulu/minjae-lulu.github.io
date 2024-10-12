@@ -13,7 +13,7 @@ Hi! I am a Combined MS-PhD student in [Intelligent Robotics](https://robot.skku.
 
 ## Research Interests
 
-- **Deep Learning:** 3D Vision, Vision Language Model, Bayesian learning, Generative model
+- **Deep Learning:** 3D Vision, Spatial AI, Generative model, Language Model, Bayesian learning
 - **Robotics:** Vision Language Navigation, Simultaneous Localization and Mapping (SLAM), Robot Perception
 
 <br>
