@@ -44,7 +44,7 @@ Hi! I am a Combined MS-PhD student in [Intelligent Robotics](https://robot.skku.
   <br>
   **Sibaek Lee**, Kyeongsu Kang, Hyeonwoo Yu
   <br>
-  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024 (**Oral pitch & interactive presentation**)
+  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024
   <br>
   [[Paper](https://arxiv.org/pdf/2303.06335.pdf)]
   [[Code](https://github.com/minjae-lulu/Just-Flip)]
