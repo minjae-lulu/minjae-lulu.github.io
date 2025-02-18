@@ -28,6 +28,23 @@ Hi! I am a Combined MS-PhD student in [Intelligent Robotics](https://robot.skku.
 <br>
 
 
+## Work Experience
+- 2024.08 - Present : 3D Vision & Deep Learning Research Intern at [Naver Labs](https://www.naverlabs.com/) (Vision Group) <br/>
+Supervisor : [Giseop Kim](https://giseopkim.notion.site/Giseop-Kim-62c715ad51224751af6de62329925b8f), Sunwook Choi <br/>
+
+- 2024.03 - Present : Research Intern at Artificial Intelligence and Robotics Lab (SKKU) <br/>
+Supervisor : [Hyeonwoo Yu](https://bogus2000.github.io/)<br/>
+
+
+- 2022.08 - 2024.02 : Research Intern at Artificial Intelligence and Robotics Lab (UNIST) <br/>
+Supervisor : [Hyeonwoo Yu](https://bogus2000.github.io/)<br/>
+
+
+- 2021.06 - 2022.07 : Research Intern at Applied Cryptography Lab (UNIST) <br/>
+Supervisor: [Miran Kim](https://k-miran.github.io/)<br/>
+
+<br>
+
 ## Publications
 - **Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**
   <br>
@@ -78,22 +95,6 @@ Hi! I am a Combined MS-PhD student in [Intelligent Robotics](https://robot.skku.
 
 <br/>
 
-## Work Experience
-- 2024.08 - Present : 3D Vision & Deep Learning Research Intern at [Naver Labs](https://www.naverlabs.com/) (Vision Group) <br/>
-Supervisor : [Giseop Kim](https://giseopkim.notion.site/Giseop-Kim-62c715ad51224751af6de62329925b8f), Sunwook Choi <br/>
-
-- 2024.03 - Present : Research Intern at Artificial Intelligence and Robotics Lab (SKKU) <br/>
-Supervisor : [Hyeonwoo Yu](https://bogus2000.github.io/)<br/>
-
-
-- 2022.08 - 2024.02 : Research Intern at Artificial Intelligence and Robotics Lab (UNIST) <br/>
-Supervisor : [Hyeonwoo Yu](https://bogus2000.github.io/)<br/>
-
-
-- 2021.06 - 2022.07 : Research Intern at Applied Cryptography Lab (UNIST) <br/>
-Supervisor: [Miran Kim](https://k-miran.github.io/)<br/>
-
-<br>
 
 ## Conference Review
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024
