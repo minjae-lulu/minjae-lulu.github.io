@@ -40,6 +40,10 @@ Supervisor : [Hyeonwoo Yu](https://bogus2000.github.io/)<br/>
 Supervisor : [Hyeonwoo Yu](https://bogus2000.github.io/)<br/>
 
 
+- 2022.01 - 2022.01 : 
+Global Program Participant in AI & Big Data at University of Illinois Urbana‑Champaign ([UIUC](https://illinois.edu/)) <br/>
+
+
 - 2021.06 - 2022.07 : Research Intern at Applied Cryptography Lab (UNIST) <br/>
 Supervisor: [Miran Kim](https://k-miran.github.io/)<br/>
 
