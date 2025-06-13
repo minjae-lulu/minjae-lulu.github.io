@@ -99,6 +99,22 @@ Supervisor: [Miran Kim](https://k-miran.github.io/)<br/>
 
 <br/>
 
+## Projects
+- **AI Semiconductor Innovation Center**  
+  Supported by IITP grant funded by the Korea government (MSIT) (2025 – 2030)
+
+- **Development of Robotic Technology for Grasping and Manipulating Challenging Thin Non-Rigid Objects in Unstructured Environments Multi-Modal 3D Perception & Task Planning Learned from Demonstrations and Manuals for Battery Pack Recycling** 
+  Funded by the Ministry of Trade, Industry and Energy (2024 – 2027)
+
+- **Development and Demonstration of Unmanned Autonomous Operation Technology Based on Field-Use Visualization Sensors and 6-Axis Rotational Angle Sensors**  
+  Funded by the Ministry of Trade, Industry and Energy (2024 – 2028)
+
+- **Spatial and Task Generalization Framework for Hardware Platform-Agnostic Embodied AI**  
+  Funded by the National Research Foundation of Korea (2024 – 2027)
+
+
+<br/>
+
 
 ## Conference Review
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024
