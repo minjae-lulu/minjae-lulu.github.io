@@ -7,7 +7,7 @@ layout: homepage
 <!-- Hi! I am a Combined MS-PhD in [AIGS](https://aigs.unist.ac.kr/eng/index.php) at UNIST advised by Prof. [Hyeonwoo yu](https://bogus2000.github.io/) where I am a member of UNIST Artificial Intelligence and Robotics ([Lair](https://lair.unist.ac.kr/)). As a researcher, I hope my research contribute to society positively and I believe that artificial intelligence is a step towards achieving that goal. My current research interest focuses on using deep learning techniques to understand and generate 3D space. Through these researches, we can solve many spatial limitations, and ultimately people in the world can live a better life in various ways. -->
 
 
-Hi! I am a Combined MS-PhD student in [Intelligent Robotics](https://robot.skku.edu/robot_en/index.do) at SKKU advised by Prof. [Hyeonwoo yu](https://bogus2000.github.io/) where I am a member of SKKU Artificial Intelligence and Robotics ([Lair](https://sites.google.com/view/hyeonwooyu/)). As a researcher, I hope my research contribute to society positively and I believe that artificial intelligence is a step towards achieving that goal. My current research interest focuses on using deep learning techniques to enhance robots' spatial perception. By improving their ability to perceive their environment accurately, we can enable robots to make better decisions, perform more complex tasks, and ultimately help people in various ways.
+Hi! I am a Combined MS-PhD student in [Intelligent Robotics](https://robot.skku.edu/robot_en/index.do) at SKKU advised by Prof. [Hyeonwoo yu](https://bogus2000.github.io/) where I am a member of SKKU Artificial Intelligence and Robotics ([Lair](https://sites.google.com/view/hyeonwooyu/)). As a researcher, I hope my research contributes positively to society and I believe that artificial intelligence is a step towards achieving that goal. My current research interest focuses on using deep learning techniques to enhance robots' spatial perception. By improving their ability to perceive their environment accurately, we can enable robots to make better decisions, perform more complex tasks, and ultimately help people in various ways.
 <br>
 
 
@@ -50,6 +50,16 @@ Supervisor: [Miran Kim](https://k-miran.github.io/)<br/>
 <br>
 
 ## Publications
+- **Spatial Coordinate Transformation for 3D Neural Implicit Mapping**
+  <br>
+  Kyeongsu Kang, Seongbo Ha, **Sibaek Lee**, Hyeonwoo Yu
+  <br>
+  IEEE Robotics and Automation Letters (RA-L), 2025
+  <br>
+  <!-- [[Paper](https://arxiv.org/pdf/2404.06727.pdf)]
+  [[Code](https://github.com/Lab-of-AI-and-Robotics/Bayesian_NeRF)] -->
+
+
 - **Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**
   <br>
   **Sibaek Lee**, Kyeongsu Kang, Hyeonwoo Yu
