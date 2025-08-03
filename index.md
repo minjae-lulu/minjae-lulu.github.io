@@ -56,8 +56,8 @@ Supervisor: [Miran Kim](https://k-miran.github.io/)<br/>
   <br>
   IEEE Robotics and Automation Letters (RA-L), 2025
   <br>
-  <!-- [[Paper](https://arxiv.org/pdf/2404.06727.pdf)]
-  [[Code](https://github.com/Lab-of-AI-and-Robotics/Bayesian_NeRF)] -->
+  [[Paper](https://ieeexplore.ieee.org/document/11106682)]
+  [[Code](https://github.com/Lab-of-AI-and-Robotics/SCT_NIM)]
 
 
 - **Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**
@@ -94,14 +94,14 @@ Supervisor: [Miran Kim](https://k-miran.github.io/)<br/>
 
 - **Literature review on Transformers in object detection**
   <br>
-  Elkhan Ismayilzada, **Minjae Lee** and Seungryul Baek
+  Elkhan Ismayilzada, **Minjae Lee**, Seungryul Baek
   <br>
   Korean Artificial Intelligence Association (CKAIA), 2022
 
 
 - **Free-form masked facial image inpainting via exploiting 2D and 3D information**
   <br>
-  Jihyeon Kim, Junuk Cha, Yeongjun Choo, **Minjae Lee**, Jitae Yoo, Yeonghun Oh, Hoseong Cho, Eunseo Kim, Chungseok Choi, Honggyu Lim, Donguk Min1, Eugene Shin, Seokun Kang and Seungryul Baek
+  Jihyeon Kim, Junuk Cha, Yeongjun Choo, **Minjae Lee**, Jitae Yoo, Yeonghun Oh, Hoseong Cho, Eunseo Kim, Chungseok Choi, Honggyu Lim, Donguk Min1, Eugene Shin, Seokun Kang, Seungryul Baek
   <br>
   Korean Artificial Intelligence Association (CKAIA), 2022
   
