@@ -56,7 +56,7 @@ Supervisor: [Miran Kim](https://k-miran.github.io/)<br/>
   <br>
   IEEE Robotics and Automation Letters (RA-L), 2025
   <br>
-  [[Paper](https://ieeexplore.ieee.org/document/11106682)]
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/11106682)]
   [[Code](https://github.com/Lab-of-AI-and-Robotics/SCT_NIM)]
 
 
