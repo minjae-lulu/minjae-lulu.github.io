@@ -71,6 +71,7 @@ Supervisor: [Miran Kim](https://k-miran.github.io/)<br/>
   [[Video](https://www.youtube.com/watch?v=wp5jW4S_jqo)]
 
 
+
 - **Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**
   <br>
   **Sibaek Lee**, Kyeongsu Kang, Hyeonwoo Yu
@@ -109,7 +110,16 @@ Supervisor: [Miran Kim](https://k-miran.github.io/)<br/>
 
 <br/>
 
+## Awards and Honors
+- Best Paper Award, Korean Artificial Intelligence Association (CKAIA), 2025, Korea
+
+
+<br/>
+
 ## Projects
+- **AI Star Fellowship Support Program**  
+  Supported by IITP grant funded by the Korea government (MSIT) (2025 – 2029)
+
 - **AI Semiconductor Innovation Center**  
   Supported by IITP grant funded by the Korea government (MSIT) (2025 – 2030)
 
@@ -133,6 +143,8 @@ Supervisor: [Miran Kim](https://k-miran.github.io/)<br/>
 <br>
 
 ## Presentation
+- Korean Artificial Intelligence Association (CKAIA) Oral Presentation "Density-Based Uncertainty NeRF for Unseen View Prediction" (2025.08.08) 
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) Oral Presentation "Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View" (2024.11.18) 
 - Korean Artificial Intelligence Association (CKAIA) Poster Session "Literature review on Transformers in object detection" (2022.11.18) 
 - UNIST Artificial Intelligence Challengers Program (AICP) Poster Session "Just Flip" (2023.11.14)
 - LG DX Intensive Course, "Privacy-Preserving Machine Learning" (2022.08.03)
