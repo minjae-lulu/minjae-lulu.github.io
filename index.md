@@ -111,7 +111,7 @@ Supervisor: [Miran Kim](https://k-miran.github.io/)<br/>
 <br/>
 
 ## Awards and Honors
-- Best Paper Award, Korean Artificial Intelligence Association (CKAIA), 2025, Korea
+- Best Paper Award, Korean Artificial Intelligence Association (CKAIA), 2025, Korea (LG AI Research prize)
 
 
 <br/>
