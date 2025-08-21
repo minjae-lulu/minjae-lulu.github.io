@@ -30,7 +30,7 @@ Hi! I am a Combined MS-PhD student in [Intelligent Robotics](https://robot.skku.
 
 ## Work Experience
 - 2024.08 - 2025.02 : 3D Vision & Deep Learning Research Intern at [Naver Labs](https://www.naverlabs.com/) (Vision Group) <br/>
-Supervisor : [Giseop Kim](https://giseopkim.notion.site/Giseop-Kim-62c715ad51224751af6de62329925b8f), Sunwook Choi <br/>
+Supervisor : [Giseop Kim](https://github.com/gisbi-kim/cv-giseopkim/blob/main/cv_giseopkim.pdf), Sunwook Choi <br/>
 
 - 2024.03 - Present : Research Intern at Artificial Intelligence and Robotics Lab (SKKU) <br/>
 Supervisor : [Hyeonwoo Yu](https://bogus2000.github.io/)<br/>
