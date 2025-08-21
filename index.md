@@ -136,11 +136,11 @@ Supervisor: [Miran Kim](https://k-miran.github.io/)<br/>
 <br/>
 
 
-## Conference Review
+<!-- ## Conference Review
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023
 
-<br>
+<br> -->
 
 ## Presentation
 - Korean Artificial Intelligence Association (CKAIA) Oral Presentation "Density-Based Uncertainty NeRF for Unseen View Prediction" (2025.08.08) 
