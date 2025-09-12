@@ -32,17 +32,8 @@ Hi! I am a Combined MS-PhD student in [Intelligent Robotics](https://robot.skku.
 - 2024.08 - 2025.02 : 3D Vision & Deep Learning Research Intern at [Naver Labs](https://www.naverlabs.com/) (Vision Group) <br/>
 Supervisor : [Giseop Kim](https://github.com/gisbi-kim/cv-giseopkim/blob/main/cv_giseopkim.pdf), Sunwook Choi <br/>
 
-- 2024.03 - Present : Research Intern at Artificial Intelligence and Robotics Lab (SKKU) <br/>
-Supervisor : [Hyeonwoo Yu](https://bogus2000.github.io/)<br/>
-
-
-- 2022.08 - 2024.02 : Research Intern at Artificial Intelligence and Robotics Lab (UNIST) <br/>
-Supervisor : [Hyeonwoo Yu](https://bogus2000.github.io/)<br/>
-
-
-- 2022.01 - 2022.01 : 
+- 2022.01 - 2022.02 : 
 Global Program Participant in AI & Big Data at University of Illinois Urbana‑Champaign ([UIUC](https://illinois.edu/)) <br/>
-
 
 - 2021.06 - 2022.07 : Research Intern at Applied Cryptography Lab (UNIST) <br/>
 Supervisor: [Miran Kim](https://k-miran.github.io/)<br/>
